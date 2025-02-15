@@ -10,11 +10,11 @@
 <h2 align="center">A self-taught passionate results-driven and detail-oriented Embedded firmware developer with one years of hands-on experience on microconroller and development. Proficient in implementing, testing, and maintaining robust and scalable applications. Skilled in utilizing Embedded protocol such as UART, SPI, I2C, CAN, along with expertise in OS management (Linux), kernal and system level programming.</h2>
 
 
-- 🌱 I’m currently learning **Linux, TCP-IP**
+- 🌱 I’m currently learning ***Linux, TCP-IP, DSA***
 
 - 👨‍💻 All of my projects are available at ***[click me]()***
 
-- 💬 Ask me about **C language / CPP / Embedded C / Protocoles / Linux / TCP-IP **
+- 💬 Ask me about ***C language / CPP / Embedded C / Protocoles / Linux / TCP-IP ***
 
 - 📄 Know about my experiences ***[(Resume Here)](https://www.linkedin.com/posts/pruthesh-s-a06237195_resume-activity-7289306240176824320-WLkX?utm_source=share&utm_medium=member_desktop)***
 
