@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Pruthesh Savaliya</h1>
 
 <div align="center">
- <img  src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Develope;System+Developer;Linux+Developer;Self+Motivated;Problem+Solver;Embedded+C;ARM+7+μC+Controller;Protocoles+SPI+I2C+UART+CAN+TIMER+ADC;RTOS;&color=teal&center=true"  />
+ <img  src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Develope;System+Developer;Linux+Developer;Self+Motivated;Problem+Solver;Embedded+C;ARM+7+μC;Protocoles+SPI+I2C+UART+CAN+TIMER+ADC;RTOS;&color=teal&center=true"  />
 </div>
 <h2 align="center">A self-taught passionate results-driven and detail-oriented Embedded firmware developer with one years of hands-on experience on microconroller and development. Proficient in implementing, testing, and maintaining robust and scalable applications. Skilled in utilizing Embedded protocol such as UART, SPI, I2C, CAN, along with expertise in OS management (Linux), kernal and system level programming.</h2>
 
