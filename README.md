@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at ***[click me]()***
 
-- 💬 Ask me about **react / java script / Java**
+- 💬 Ask me about **C language / CPP / Embedded C / Protocoles / Linux / TCP-IP **
 
 - 📄 Know about my experiences ***[(Resume Here)](https://www.linkedin.com/posts/pruthesh-s-a06237195_resume-activity-7289306240176824320-WLkX?utm_source=share&utm_medium=member_desktop)***
 
